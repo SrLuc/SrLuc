@@ -1,10 +1,7 @@
-# Olá, sou o Ruan Lucena ✌️
+# Olá, sou o Ruan Lucena 
 
-### Sou um curioso por de tecnologia da informação e no momento estou na universidade, no curso de Análise e Desenvolvimento de Sistemas.
-Meu objetivo é ser um desenvolvedor BackEnd .NET e estou me aperfeiçoando nisso, Também participo no desenvolvimento de projetos e softwares com uma Squad da minha universidade
+### Sou estudante de tecnologia da informação e estou na graduação em tecnólogo em Análise e Desenvolvimento de Sistemas.
 <br>
-
-![SrLuc GitHub stats](https://github-readme-stats.vercel.app/api?username=SrLuc&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu Dia
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
