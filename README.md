@@ -1,7 +1,13 @@
-# Olá, sou o Ruan Lucena ✌️
+# Hi, I'm Ruan
 
-### Sou um curioso por de tecnologia da informação e no momento estou na universidade, no curso de Análise e Desenvolvimento de Sistemas.
-Meu objetivo é ser um desenvolvedor BackEnd .NET e estou me aperfeiçoando nisso, Também participo no desenvolvimento de projetos e softwares com uma Squad da minha universidade
+## I am an information technology student.
+<ul>
+<li>I have code repositories that I wrote</li>
+<li>I participate in technological extension programs</li>
+<li>I am part of the RiseUp Porto Digital program</li>
+<li>I use front-end technologies but I want to become a fullstack developer</li>
+</ul> 
+
 <br>
 
 ![SrLuc GitHub stats](https://github-readme-stats.vercel.app/api?username=SrLuc&show_icons=true&theme=dracula)
@@ -14,6 +20,8 @@ Meu objetivo é ser um desenvolvedor BackEnd .NET e estou me aperfeiçoando niss
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contatos 
