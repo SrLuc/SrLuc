@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hi, I'm Ruan
 
 ## I am an information technology student.
@@ -8,9 +9,12 @@
 <li>I use front-end technologies but I want to become a fullstack developer</li>
 </ul> 
 
-<br>
+=======
+# Olá, sou o Ruan Lucena 
 
-![SrLuc GitHub stats](https://github-readme-stats.vercel.app/api?username=SrLuc&show_icons=true&theme=dracula)
+### Sou estudante de tecnologia da informação e estou na graduação em tecnólogo em Análise e Desenvolvimento de Sistemas.
+>>>>>>> 5abb5fa1866b844a89d4e4d48ef6478904662ed2
+<br>
 
 ## Tecnologias que uso no meu Dia
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
