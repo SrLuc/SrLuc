@@ -9,12 +9,6 @@
 <li>I use front-end technologies but I want to become a fullstack developer</li>
 </ul> 
 
-=======
-# Olá, sou o Ruan Lucena 
-
-### Sou estudante de tecnologia da informação e estou na graduação em tecnólogo em Análise e Desenvolvimento de Sistemas.
->>>>>>> 5abb5fa1866b844a89d4e4d48ef6478904662ed2
-<br>
 
 ## Tecnologias que uso no meu Dia
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,7 +19,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLuc&theme=tokyonight)
 
 
 ## Contatos 
