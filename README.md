@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hi, I'm Ruan
 
 ## I am an information technology student.
