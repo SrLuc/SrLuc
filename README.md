@@ -18,7 +18,9 @@
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLuc&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLuc&layout=compact&theme=codeSTACKr )
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrLuc&theme=codeSTACKr )
 
 ## Contatos 
 
