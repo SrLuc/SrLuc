@@ -1,13 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ruan Lucena Ramos</h1>
-<h3 align="center">I am a frontend developer</h3>
+<h1 align="center">Hi I'm Ruan Lucena Ramos</h1>
 
-- 🔭 I’m currently working on **Movimento Pró-Criança**
-
-- 🌱 I’m currently learning **ReactJS and Typescript**
-
-- 👯 I’m looking to collaborate on **Porto Digital**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SrLuc](https://github.com/SrLuc)
+ I’m currently learning **ReactJS and Typescript**
+ I’m looking to collaborate on **Porto Digital**
 
 - 📫 How to reach me **ruanlucenaramos@gmail.com**
 
