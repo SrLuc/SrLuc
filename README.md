@@ -19,9 +19,9 @@ My goal is to become a **Reference in MERN Stack Development**
 ```javascript
 const Ruan = {
   code: ["Typescript", "Javascript", "ReactJS"],
-  askMeAbout: ["Frontend dev", "MERN Stack Development"],
+  askMeAbout: "MERN Stack Development",
   technologies: {
-    frontend: ["HTML", "CSS", "JS", "Bootstrap", "TailwindCSS"],
+    frontend: ["ReactJS", "Bootstrap", "TailwindCSS"],
     backend: ["NodeJS", "Express", "MongoDB"],
   },
 };
