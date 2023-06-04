@@ -29,7 +29,6 @@ const Ruan = {
 
 <div align="center">
 
-<img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SrLuc&theme=onedark" />
 </a>
 
 </div>
