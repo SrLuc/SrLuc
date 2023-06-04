@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0CF744&width=435&lines=I+am+a+Frontend+Developer;Software+Analyst+and+Developer;Software+Resident+at+Porto+Digital+in+Brazil" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0CF744&width=435&lines=I+am+a+Frontend+Developer;Software+Analyst+and+Developer;MERN+Stack+Development" alt="Typing SVG" /></a>
 </p>
 
 I'm a **ReactJS and NodeJS Developer**
