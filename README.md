@@ -21,8 +21,8 @@ const Ruan = {
   code: ["Typescript", "Javascript", "ReactJS"],
   askMeAbout: "MERN Stack Development",
   technologies: {
-    frontend: ["ReactJS", "Bootstrap", "TailwindCSS"],
-    backend: ["NodeJS", "Express", "MongoDB"],
+    frontend: ["ReactJS", "TailwindCSS"],
+    backend: ["NodeJS", "Express", "MySQL", "MongoDB"],
   },
 };
 ```
