@@ -2,7 +2,7 @@
   <h1 align="center">Welcome to Ruan Lucena</a>'s Profile</h1>
 </p>
 
-💻 I'm a **FullStack Developer**
+💻 **FullStack Developer**
 <br>
 👨🏻‍💻 I am part of the **Porto Digital** Software Program
 <br>
