@@ -20,12 +20,4 @@ const Ruan = {
 };
 ```
 
-<div align="center">
-
-</a>
-
-</div>
-
-<br>
-
 
