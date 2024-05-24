@@ -12,11 +12,11 @@
 
 ```javascript
 const Ruan = {
-  code: ["Typescript", "Javascript", "ReactJS"],
+  code: ["Typescript", "Ruby", "Python"],
   technologies: {
-    frontend: ["ReactJS", "TailwindCSS", "Bootstrap"],
-    backend: ["NodeJS", "Express", "MySQL", "MongoDB", "MVC", "RestFull"],
-  },
+    frontend: ["ReactJS", "VueJS","],
+    backend: ["NodeJS", "Express", "MySQL", "MongoDB", "Ruby on Rails"],
+  },e
 };
 ```
 
