@@ -14,7 +14,7 @@
 const Ruan = {
   code: ["Typescript", "Ruby", "Python"],
   technologies: {
-    frontend: ["ReactJS", "VueJS","],
+    frontend: ["ReactJS", "VueJS"],
     backend: ["NodeJS", "Express", "MySQL", "MongoDB", "Ruby on Rails"],
   },e
 };
