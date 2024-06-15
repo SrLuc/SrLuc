@@ -4,9 +4,9 @@
 
 💻 **FullStack Developer**
 <br>
-👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
-<br>
 🎓Systems Analyst Graduated in **Systems Development**
+<br>
+👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
 <br>
 🧑‍🏫 Fullstack development monitor at Softex Recife
 <br>
