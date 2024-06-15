@@ -4,10 +4,13 @@
 
 💻 **FullStack Developer**
 <br>
-👨🏻‍💻 I am part of the **Porto Digital** Software Program
+👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
 <br>
 🎓Systems Analyst Graduated in **Systems Development**
-
+<br>
+🧑‍🏫 Fullstack development monitor at Softex Recife
+<br>
+🧑‍🏫 Technology monitor at Cesar School
 ## about me
 
 ```javascript
