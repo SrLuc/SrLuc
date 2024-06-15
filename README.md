@@ -6,17 +6,18 @@
 <br>
 👨🏻‍💻 I am part of the **Porto Digital** Software Program
 <br>
-🎓 I am currently a **student of Information Technology** and Web Systems Programming
+🎓 Graduated **student of Information Technology** and Web Systems Programming/Development
 
 ## about me
 
 ```javascript
-const Ruan = {
+const SrLuc = {
   code: ["Typescript", "Ruby", "Python"],
   technologies: {
+    backend: ["NodeJS", "Express", "SQL", "MongoDB", "Ruby on Rails"],
     frontend: ["ReactJS", "VueJS"],
-    backend: ["NodeJS", "Express", "MySQL", "MongoDB", "Ruby on Rails"],
-  },e
+    devops:[AWS]
+  },
 };
 ```
 
