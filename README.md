@@ -4,7 +4,7 @@
 
 💻 **FullStack Developer**
 <br>
-🎓 Graduated **Systems analyst and developer**
+🎓 Graduated in **Analysis and Systems Development**
 <br>
 👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
 <br>
