@@ -9,8 +9,6 @@
 👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
 <br>
 🧑‍🏫 Fullstack development monitor at Softex Recife
-<br>
-🧑‍🏫 Technology monitor at Cesar School
 ## about me
 
 ```javascript
