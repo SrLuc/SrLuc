@@ -6,7 +6,7 @@
 <br>
 👨🏻‍💻 I am part of the **Porto Digital** Software Program
 <br>
-🎓 Graduated **student of Information Technology** and Web Systems Programming/Development
+🎓Systems Analyst Graduated in **Systems Development**
 
 ## about me
 
