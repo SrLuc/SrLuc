@@ -15,8 +15,8 @@
 const SrLuc = {
   code: ["Typescript", "Ruby", "Python"],
   technologies: {
-    backend: ["NodeJS", "Express", "SQL", "MongoDB", "Ruby on Rails"],
-    frontend: ["ReactJS", "VueJS"],
+    backend: ["NodeJS", "Express", "MySQL", "MongoDB", "NestJs", "Ruby on Rails"],
+    frontend: ["React", "VueJS"],
     devops:[AWS]
   },
 };
