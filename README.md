@@ -9,14 +9,18 @@
 👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
 <br>
 🧑‍🏫 Fullstack development monitor at Softex Recife
+<br>
+📟 Teacher of Backend Web Development at Softex Recife
+<br>
+🧠 Monitor of Computer Operator ar Cesar School
 ## about me
 
 ```javascript
 const SrLuc = {
-  code: ["Typescript", "Ruby", "Python"],
+  code: ["Typescript", "Python", "Ruby"],
   technologies: {
     backend: ["NodeJS", "Express", "MySQL", "MongoDB", "NestJs", "Ruby on Rails"],
-    frontend: ["React", "VueJS"],
+    frontend: ["React", "VueJS" , "NextJs"],
     devops:[AWS]
   },
 };
