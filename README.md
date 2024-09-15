@@ -17,12 +17,11 @@
 
 ```javascript
 const SrLuc = {
-  code: ["Typescript", "Python", "Ruby", "MicroPython"],
+  code: ["Typescript", "Python", "Ruby"],
   technologies: {
     backend: ["NodeJS", "Express", "MySQL", "MongoDB", "NestJs", "Ruby on Rails"],
     frontend: ["React", "VueJS" , "NextJs"],
     devops:[AWS],
-    IOT: "Raspberry Pi"
   },
 };
 ```
