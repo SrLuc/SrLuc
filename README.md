@@ -8,11 +8,11 @@
 <br>
 👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
 <br>
-🧑‍🏫 Fullstack development monitor at **Softex Recife**
+🧑‍🏫 Fullstack developer at **Softex Recife**
 <br>
 📟 Teacher of Backend Web Development at **Softex Recife**
 <br>
-🧠 Monitor of Computer Operator at **CESAR SCHOOL**
+🧠 Monitor of Computer Operator and Data Analysis at **CESAR SCHOOL**
 ## about me
 
 ```javascript
