@@ -3,11 +3,10 @@
 </p>
 
 <p>
-  eu gosto de ler, pesquisar, estudar, desenvolver, projetar, desenhar, correr, fotografar e viajar.
+ i like to read, research, study, developer, project, draw, run, photographer and travel.
 
-eu sou uma pessoa que gostaria de estudar no exterior, quero dizer, fazer intercâmbio ou coisas assim, acredito que isso me ajudará a melhorar não apenas minhas habilidades técnicas, mas também minhas habilidades pessoais, muito mais!
+i am person to would like study abroad, i mean exchange or things like that, i believe thats i'll help me to improve not only my technical skills but also my person skills, much more!
 
-há alguns meses eu lecionei Backend Bevelopment na Softex Pernambuco e fui monitor de computador com Análise de Dados na Cesar School Recife
 </p>
 
 💻 **FullStack Developer**
