@@ -14,8 +14,6 @@
 <br>
 🧠 Monitor of Computer Operator and Data Analysis at **CESAR SCHOOL**
 
-<div align="center">
-
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask&theme=light)](https://skillicons.dev)
 
@@ -30,8 +28,5 @@
 
 ### Tools & Misc
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,cypress,graphql,obsidian,git,gitlab,figma,bots&theme=light)](https://skillicons.dev)
-
-</div>
-
 
 
