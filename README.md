@@ -14,24 +14,24 @@
 <br>
 🧠 Monitor of Computer Operator and Data Analysis at **CESAR SCHOOL**
 
-## Hard Skills
+<div align="center">
 
-```javascript
-const SrLuc = {
-  code: ["Typescript", "Python"],
-  technologies: {
-    backend: ["NodeJS", "Express", "GraphQL" "MySQL", "MongoDB", "NestJS", ".NET"],
-    frontend: ["React", "VueJS" , "NextJs"],
-    devops:[AWS, DOCKER],
-  },
-};
-```
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask&theme=light)](https://skillicons.dev)
 
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,styledcomponents,vite&theme=light)](https://skillicons.dev)
 
-<div align ="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vue,aws,docker,anaconda,arduino,cypress,bots,docker,express,flask,git,gitlab,graphql,mysql,nestjs,nextjs,obsidian,postgres,py,styledcomponents,sequelize,vite,figma&theme=light)](https://skillicons.dev)
+### DevOps & Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sequelize&theme=light)](https://skillicons.dev)
+
+### Tools & Misc
+[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,cypress,graphql,obsidian,git,gitlab,figma,bots&theme=light)](https://skillicons.dev)
 
 </div>
+
 
 
