@@ -28,3 +28,10 @@ const SrLuc = {
 ```
 
 
+<div align ="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vue,aws,docker,anaconda,arduino,cypress,bots,docker,express,flask,git,gitlab,graphql,mysql,nestjs,nextjs,obsidian,postgres,py,styledcomponents,sequelize,vite,figma&theme=light)](https://skillicons.dev)
+
+</div>
+
+
