@@ -14,10 +14,9 @@
 <br>
 🧠 Monitor of Computer Operator and Data Analysis at **CESAR SCHOOL**
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask&theme=light)](https://skillicons.dev)
 
-### Frontend
+### Backend | Frontend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,styledcomponents,vite&theme=light)](https://skillicons.dev)
 
 ### DevOps & Cloud
