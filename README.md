@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sequelize&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
 
 ### Tools & Misc
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,cypress,graphql,obsidian,git,gitlab,figma,bots&theme=light)](https://skillicons.dev)
