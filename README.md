@@ -16,14 +16,14 @@
 
 
 ### Backend | Frontend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,flask&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,styledcomponents,vite&theme=light)](https://skillicons.dev)
 
 ### DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
+### Data Analysis | Databases
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
 
 ### Tools & Misc
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,cypress,graphql,obsidian,git,gitlab,figma,bots&theme=light)](https://skillicons.dev)
