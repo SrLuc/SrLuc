@@ -13,7 +13,8 @@
 📟 Teacher of Backend Web Development at **Softex Recife**
 <br>
 🧠 Monitor of Computer Operator and Data Analysis at **CESAR SCHOOL**
-## about me
+
+## Hard Skills
 
 ```javascript
 const SrLuc = {
