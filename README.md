@@ -2,6 +2,14 @@
   <h1 align="center">Welcome to Ruan Lucena</a>'s Profile</h1>
 </p>
 
+<p>
+  eu gosto de ler, pesquisar, estudar, desenvolver, projetar, desenhar, correr, fotografar e viajar.
+
+eu sou uma pessoa que gostaria de estudar no exterior, quero dizer, fazer intercâmbio ou coisas assim, acredito que isso me ajudará a melhorar não apenas minhas habilidades técnicas, mas também minhas habilidades pessoais, muito mais!
+
+há alguns meses eu lecionei Backend Bevelopment na Softex Pernambuco e fui monitor de computador com Análise de Dados na Cesar School Recife
+</p>
+
 💻 **FullStack Developer**
 <br>
 🎓 Graduated in **Analysis and Systems Development**
