@@ -11,7 +11,7 @@ i am person to would like study abroad, i mean exchange or things like that, i b
 
 💻 **FullStack Developer**
 <br>
-📚 Postgraduate student in **Software Engineering with an emphasis on Test Analysis** at Cin UFPE - MOTOROLA
+📚 Postgraduate student in **Software Engineering with an emphasis on Test Analysis** at Cin *UFPE* - *Motorola*
 <br>
 🎓 Graduated in **Analysis and Systems Development**
 <br>
