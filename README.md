@@ -10,16 +10,11 @@ i am person to would like study abroad, i mean exchange or things like that, i b
 </p>
 
 💻 **FullStack Developer**
-<br>
 📚 Postgraduate student in **Software Engineering with an emphasis on Test Analysis** at Cin *UFPE* - *Motorola*
-<br>
 🎓 Graduated in **Analysis and Systems Development**
-<br>
-👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
-<br>
-📟 Teacher of Backend Web Development at **Softex Recife**
-<br>
 🧠 Monitor of Computer Operator and Data Analysis at **CESAR SCHOOL**
+📟 Teacher of Backend Web Development at **Softex Recife**
+👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
 
 
 ### Backend | Frontend
