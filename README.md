@@ -28,11 +28,12 @@ i am person to would like study abroad, i mean exchange or things like that, i b
 
 ### Mobile
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio)](https://skillicons.dev)
+
 ### DevOps & Cloud
-[![My Skills](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker&theme=light)](https://skillicons.dev)
 
 ### Data Analysis | Databases
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,selenium,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
 
 ### Tools & Misc
 [![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,cypress,graphql,obsidian,git,gitlab,figma,bots&theme=light)](https://skillicons.dev)
