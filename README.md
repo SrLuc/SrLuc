@@ -26,6 +26,8 @@ i am person to would like study abroad, i mean exchange or things like that, i b
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,flask&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,styledcomponents,vite&theme=light)](https://skillicons.dev)
 
+### Mobile
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio)](https://skillicons.dev)
 ### DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,docker&theme=light)](https://skillicons.dev)
 
