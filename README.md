@@ -32,7 +32,7 @@ i am person to would like study abroad, i mean exchange or things like that, i b
 ### DevOps & Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,docker&theme=light)](https://skillicons.dev)
 
-### Data Analysis | Databases
+### Data Analysis | Databases| Automation 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,selenium,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
 
 ### Tools & Misc
