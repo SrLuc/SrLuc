@@ -9,7 +9,7 @@ i am person to would like study abroad, i mean exchange or things like that, i b
 
 </p>
 
-💻 **FullStack Developer**
+💻 **Software Enginner**
 <br>
 📚 Postgraduate student in **Software Engineering with an emphasis on Test Analysis** at Cin *UFPE* - *Motorola*
 <br>
