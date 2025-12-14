@@ -1,5 +1,5 @@
 <p align="left">
-  <h1 align="left">Naur_io</h1>
+  <h1 align="left">naur_io</h1>
 </p>
 
 <p>
