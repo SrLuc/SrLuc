@@ -1,7 +1,3 @@
-<p align="left">
-  <h1 align="left">greetings of naur-Io</h1>
-</p>
-
 <p>
 Software Engineer with a strong engineering mindset, focused on building scalable, maintainable and well-architected systems.
 I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving.
