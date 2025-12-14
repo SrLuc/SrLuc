@@ -1,41 +1,53 @@
 <p align="left">
-  <h1 align="left">naur_io</h1>
+  <h1 align="left">naur-Io</h1>
 </p>
 
 <p>
- i like to read, research, study, developer, project, draw, run, photographer and travel.
-
-i am person to would like study abroad, i mean exchange or things like that, i believe thats i'll help me to improve not only my technical skills but also my person skills, much more!
-
+Software Engineer with a strong engineering mindset, focused on building scalable, maintainable and well-architected systems.
+I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving.
 </p>
 
-💻 **Software Engineer**
+💻 **Software Engineer | Architecture-Oriented**
 <br>
-📚 Postgraduate student in **Software Engineering with an emphasis on Test Analysis** at Cin *UFPE* - *Motorola*
+📚 Postgraduate student in **Software Engineering (Test Analysis emphasis)** – CIn UFPE / Motorola
 <br>
-🎓 Graduated in **Analysis and Systems Development**
+🎓 Bachelor's degree in **Systems Analysis and Development**
 <br>
-🧠 Monitor of Computer Operator and Data Analysis at **CESAR SCHOOL**
+🧠 Teaching Assistant in **Computer Operator and Data Analysis** – CESAR School
 <br>
-📟 Teacher of Fullstack Web Development at **Softex Recife**
+📟 **Fullstack Web Development Instructor** – Softex Recife
 <br>
-👨🏻‍💻 I am part of the **Porto Digital** Software Residence Program
+👨🏻‍💻 Member of the **Porto Digital Software Residence Program**
 
 
-### Backend | Frontend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,flask&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,styledcomponents,vite&theme=light)](https://skillicons.dev)
+## 🔹 Professional Focus
+- Software Architecture & System Design  
+- Scalable backend and distributed systems  
+- Cross-team collaboration and technical leadership  
+- Quality, reliability and test-oriented engineering  
 
-### Mobile
+I actively work with backend structuring, API design, modularization, and technical standards, supporting teams in building robust and scalable projects
+
+## 🌐 Backend & Web Engineering
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,ts,express,nestjs,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,vite,styledcomponents&theme=light)](https://skillicons.dev)
+
+- RESTful APIs and service-oriented design
+- Java and Node.js for backend services
+- Python for scripting and automation
+- Frontend development with React and Vue.js
+- Clean Architecture & separation of concerns
+- Integration with databases and external systems
+
+## 📱 Mobile Engineering
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio)](https://skillicons.dev)
 
-### DevOps & Cloud
+## ☁️ DevOps, Cloud & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,docker&theme=light)](https://skillicons.dev)
 
-### Data Analysis | Databases| Automation 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,selenium,postgres,mongodb,sequelize&theme=light)](https://skillicons.dev)
+## 📊 Data, Databases & Automation
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,selenium,sequelize&theme=light)](https://skillicons.dev)
 
-### Tools & Misc
-[![My Skills](https://skillicons.dev/icons?i=anaconda,arduino,cypress,graphql,obsidian,git,gitlab,figma,bots&theme=light)](https://skillicons.dev)
-
+## 🛠️ Tools & Engineering Practices
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,cypress,graphql,figma,obsidian,arduino&theme=light)](https://skillicons.dev)
 
