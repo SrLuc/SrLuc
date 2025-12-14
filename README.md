@@ -1,5 +1,5 @@
 <p align="left">
-  <h1 align="left">naur-Io</h1>
+  <h1 align="left">greetings of naur-Io</h1>
 </p>
 
 <p>
