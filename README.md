@@ -20,7 +20,7 @@ I enjoy researching, studying system design, software architecture, engineering 
 👨🏻‍💻 Member of the **Porto Digital Software Residence Program**
 
 
-## 🔹 Professional Focus
+## Professional Focus
 - Software Architecture & System Design  
 - Scalable backend and distributed systems  
 - Cross-team collaboration and technical leadership  
@@ -28,7 +28,7 @@ I enjoy researching, studying system design, software architecture, engineering 
 
 I actively work with backend structuring, API design, modularization, and technical standards, supporting teams in building robust and scalable projects
 
-## 🌐 Backend & Web Engineering
+## Backend & Web Engineering
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,ts,express,nestjs,flask&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,vite,styledcomponents&theme=light)](https://skillicons.dev)
 
@@ -39,15 +39,15 @@ I actively work with backend structuring, API design, modularization, and techni
 - Clean Architecture & separation of concerns
 - Integration with databases and external systems
 
-## 📱 Mobile Engineering
+## Mobile Engineering
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio)](https://skillicons.dev)
 
-## ☁️ DevOps, Cloud & Infrastructure
+## DevOps, Cloud & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,docker&theme=light)](https://skillicons.dev)
 
-## 📊 Data, Databases & Automation
+## Data, Databases & Automation
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,selenium,sequelize&theme=light)](https://skillicons.dev)
 
-## 🛠️ Tools & Engineering Practices
+## Tools & Engineering Practices
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,cypress,graphql,figma,obsidian,arduino&theme=light)](https://skillicons.dev)
 
