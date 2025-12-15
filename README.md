@@ -1,5 +1,5 @@
 <p>
-Software Engineer with a strong engineering mindset, focused on building scalable, maintainable and well-architected systems.
+Hi there ! im Software Engineer with a strong mindset, focused on building scalable, maintainable and well-architected systems.
 I enjoy researching, studying system design, software architecture, engineering trade-offs and real-world problem solving.
 </p>
 
