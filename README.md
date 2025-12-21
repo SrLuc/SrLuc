@@ -5,7 +5,7 @@ I enjoy researching, studying system design, software architecture, engineering 
 
 💻 **Software Engineer | Architecture-Oriented**
 <br>
-📚 Postgraduate student in **Software Engineering (Test Analysis emphasis)** – CIn UFPE / Motorola
+📚 Postgraduate student in **Software Engineering** – CIn UFPE / Motorola
 <br>
 🎓 Bachelor's degree in **Systems Analysis and Development**
 <br>
