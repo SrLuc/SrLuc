@@ -24,7 +24,7 @@ I enjoy researching, studying system design, software architecture, engineering 
 
 I actively work with backend structuring, API design, modularization, and technical standards, supporting teams in building robust and scalable projects
 
-## Backend & Web Engineering
+## Software Engineering & Web Backend
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,python,ts,express,nestjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,vite,styledcomponents&theme=light)](https://skillicons.dev)
 
@@ -45,5 +45,5 @@ I actively work with backend structuring, API design, modularization, and techni
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,mysql,mongodb,selenium,sequelize&theme=light)](https://skillicons.dev)
 
 ## Tools & Engineering Practices
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,cypress,graphql,figma,obsidian,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,cypress,graphql,figma,obsidian,arduino&theme=light,bots)](https://skillicons.dev)
 
